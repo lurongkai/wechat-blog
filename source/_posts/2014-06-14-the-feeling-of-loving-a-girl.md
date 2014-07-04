@@ -3,8 +3,6 @@ layout: post
 title: 男生喜欢一个女生是什么感觉
 category: articles
 tags:
-comments: true
-share: true
 ---
 ![Header](/wechat-blog/imgs/2014-06/loving-girl.jpg)
 

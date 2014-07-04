@@ -85,7 +85,7 @@ a:hover {
 }
 #header h1 {
   position: absolute;
-  left: 0;
+  left: 15px;
   top: 3px;
   font-weight: normal;
   font-size: 1.5em;
@@ -110,7 +110,7 @@ a:hover {
 }
 #main-nav {
   position: absolute;
-  right: 0;
+  right: 15px;
   top: 0;
 }
 #main-nav ul {
