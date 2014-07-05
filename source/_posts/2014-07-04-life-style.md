@@ -1,7 +1,5 @@
 title: 生活的格调
 date: 2014-07-04 23:09:13
-category: articles
-tags:
 ---
 ![Header](/wechat-blog/imgs/2014-07/lonely.jpg)
 
