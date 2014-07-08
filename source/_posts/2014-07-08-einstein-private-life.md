@@ -5,7 +5,7 @@ tags:
 ![Header](/wechat-blog/imgs/2014-07/albert-einstein.jpg)
 
 来源: [图灵社区](http://www.ituring.com.cn/article/75360)
-作者：[阮一峰](http://www.ruanyifeng.com/blog/)
+作者: [阮一峰](http://www.ruanyifeng.com/blog/)
 
 ***
 
